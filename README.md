@@ -25,6 +25,7 @@ Interactive Animations:
 Smooth entrance animations for sections as you scroll, powered by GSAP.
 Hover effects on buttons and project cards to enhance interactivity.
 Animated navbar transitions for a polished user experience.
+
 **Projects Showcase**:
 
 A grid layout displaying completed projects with descriptions.
@@ -32,6 +33,7 @@ Animations on project cards that highlight details when hovered over.
 Contact Section:
 
 A clean and accessible contact form or clickable links to email and social media.
+
 **GSAP Features**:
 
 Scroll-triggered animations: Sections fade in or slide into view as you scroll.
@@ -40,6 +42,7 @@ Smooth transitions: Animations that connect sections seamlessly for an immersive
 Customizable:
 
 Easily add more projects, skills, or contact methods without compromising design or functionality.
+
 **Technologies Used**:
 HTML: Provides the semantic structure of the website.
 CSS: Handles styling, layout, and responsiveness for a professional look.
