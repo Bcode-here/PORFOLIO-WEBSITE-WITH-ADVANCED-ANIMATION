@@ -51,6 +51,8 @@ GSAP: Adds advanced animations, making the website visually appealing and dynami
 Purpose:
 The website serves as a personal portfolio to:
 # OUTPUT OF THE TASK
+![Screenshot 2025-01-15 151617](https://github.com/user-attachments/assets/2c85be9d-3c75-4df0-8412-6bfeb7643786)
+
 
 
 
