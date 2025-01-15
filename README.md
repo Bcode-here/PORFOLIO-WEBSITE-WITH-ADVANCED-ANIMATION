@@ -50,6 +50,9 @@ JavaScript: Implements interactivity like smooth scrolling and user engagement f
 GSAP: Adds advanced animations, making the website visually appealing and dynamic.
 Purpose:
 The website serves as a personal portfolio to:
+# OUTPUT OF THE TASK
+![Screenshot 2025-01-14 173748](https://github.com/user-attachments/assets/9e1649e9-9484-40cb-851a-6fb32ed1d5e0)
+
 
 Showcase your skills and expertise as a frontend and backend developer.
 Highlight completed projects with animations to grab attention.
